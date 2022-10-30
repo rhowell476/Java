@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="67.0" prefWidth="246.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="incdec.FXMLDocumentController">
+    <children>
+        <Button fx:id="Increment" layoutX="14.0" layoutY="21.0" onAction="#increment" prefHeight="25.0" prefWidth="75.0" text="Increment" />
+      <Button fx:id="Decrement" layoutX="157.0" layoutY="21.0" mnemonicParsing="false" onAction="#decrement" prefHeight="25.0" prefWidth="75.0" text="Decrement" />
+      <TextField fx:id="numberTextField" focusTraversable="false" layoutX="105.0" layoutY="21.0" prefHeight="25.0" prefWidth="37.0" />
+    </children>
+</AnchorPane>
