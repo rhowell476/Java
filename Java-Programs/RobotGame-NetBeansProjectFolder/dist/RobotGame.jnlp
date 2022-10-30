@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="RobotGame.jnlp">
+  <information>
+    <title>RobotGame</title>
+    <vendor>Reddogg</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="RobotGame.jar" size="7259" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="robotgame.RobotGame"  name="RobotGame" />
+  <update check="always"/>
+</jnlp>
