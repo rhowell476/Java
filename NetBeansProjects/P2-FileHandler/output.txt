@@ -1,0 +1,10 @@
+Number 0    1070        
+Number 1    1004        
+Number 2    996         
+Number 3    1000        
+Number 4    1030        
+Number 5    927         
+Number 6    1002        
+Number 7    1003        
+Number 8    994         
+Number 9    974         
