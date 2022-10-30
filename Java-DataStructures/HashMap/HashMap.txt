@@ -1,0 +1,16 @@
+Map class - key value pairs
+
+```
+import java.util.HashMap;
+
+public class Maps {
+	public static void main(String[] args) {
+		
+		HashMap<> empIds = new HasMap();
+
+
+```
+
+- HashMap is a raw type
+- a map of (<T> what) to (<T> what)
+
